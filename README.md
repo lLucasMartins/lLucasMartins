@@ -1,9 +1,14 @@
-### Hello There! Seja bem-vindo, me chamo Lucas Martins 😊
+## Hello There! Seja bem-vindo, me chamo Lucas Martins 😊
+
+## Abaixo estão as formas de entrar em contato comigo!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-254a88106/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lmartinsoficial/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547996351843)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.martinsoft@gmail.com)
+
+
+![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=lLucasMartins&show_icons=true&theme=github_dark_dimmed&border_radius=10)
 
 
 ## Essas são as tecnologias que utilizo com frequencia no meu dia 🤓
@@ -28,4 +33,4 @@
 </br>
 
 
-## Fique a vontade para entrar em contato comigo e obrigado por ter vindo! 🖖
+## Fique a vontade para me enviar uma mensagem e obrigado por ter vindo! 🖖
