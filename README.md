@@ -8,9 +8,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.martinsoft@gmail.com)
 
 
-![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=lLucasMartins&show_icons=true&theme=github_dark_dimmed&border_radius=10)
-
-
 ## Essas são as tecnologias que utilizo com frequencia no meu dia 🤓
 
 <div style="display: inlne_block"></br>
